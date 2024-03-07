@@ -1,11 +1,11 @@
-# Projeto API RESTful de Dados Climáticos
+# RESTful Climate Data API Project
 
-Este projeto é uma API RESTful simples que retorna dados climáticos. Ele usa Django, Python e PostgreSQL para armazenar e servir dados climáticos obtidos da API do OpenWeatherMap.
+This project is a simple RESTful API that returns climate data. It uses Django, Python, and PostgreSQL to store and serve climate data obtained from the OpenWeatherMap API.
 
-## Pré-requisitos:
+## Prerequisites:
 
 - Python 3
 - Django
 - PostgreSQL
-- Biblioteca `requests` do Python
-- Chave de API do OpenWeatherMap
+- Python `requests` library
+- OpenWeatherMap API Key
